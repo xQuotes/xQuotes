@@ -4,7 +4,7 @@ Link exchange with friends<sup>[?](https://github.com/jlord/jlord/blob/master/LI
 
 ---
 
-<a href="https://github.com/xQuotes/xQuotes"><img src="https://avatars1.githubusercontent.com/u/19151604?s=400&u=53edf20e19cb000a069bc81aa6b5171f8f9f92ed&v=4" width="88" height="31" alt="xQuotes"></a>
+<a href="https://github.com/xQuotes/xQuotes"><img src="https://avatars1.githubusercontent.com/u/19151604?s=400&u=53edf20e19cb000a069bc81aa6b5171f8f9f92ed&v=4" width="30" height="30" alt="xQuotes"></a>
 
 <!--
 **xQuotes/xQuotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
